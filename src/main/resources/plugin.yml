@@ -1,0 +1,8 @@
+name: Everlast
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  everlast:
+    description: Manage your protected everlasting items.
+    usage: /everlast <unprotect|info>
